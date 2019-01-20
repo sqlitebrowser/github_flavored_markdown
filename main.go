@@ -19,7 +19,7 @@ import (
 	"text/template"
 
 	"github.com/microcosm-cc/bluemonday"
-	"github.com/justinclift/blackfriday"
+	"github.com/sqlitebrowser/blackfriday"
 	"github.com/shurcooL/highlight_diff"
 	"github.com/shurcooL/highlight_go"
 	"github.com/shurcooL/octicon"
